@@ -1,13 +1,6 @@
 <template>
   <div class="hello">
     <div class="ion-page">
-      <ion-header>
-        <ion-toolbar>
-          <ion-title>
-          TIME O'CLOCK 
-          </ion-title>
-        </ion-toolbar>
-      </ion-header>
       
       <ion-content class="ion-padding" overflow-scroll="true" scroll-y="true">
 
