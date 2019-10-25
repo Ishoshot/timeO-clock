@@ -1,16 +1,19 @@
 {
   "name": "clock",
   "version": "0.1.0",
+  "author":"Oluwatobi",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "start": "node server.js" 
   },
   "dependencies": {
     "@ionic/core": "^4.11.2",
     "@ionic/vue": "0.0.4",
     "core-js": "^3.3.2",
+    "express": "^4.17.1",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3"
   },
