@@ -32,6 +32,7 @@
 
 html {
   transition: all 0.5s ease-in;
+  overflow-y: scroll;
 }
 
 body {

@@ -9,7 +9,7 @@
         </ion-toolbar>
       </ion-header>
       
-      <ion-content class="ion-padding" overflow-scroll="true">
+      <ion-content class="ion-padding" overflow-scroll="true" scroll-y="true">
 
       <!-- <button class="toggle" @click="modeChanger()">Dark mode</button> -->
         
