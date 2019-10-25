@@ -1,6 +1,12 @@
-import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
+import Vue from 'vue';
+import App from './App.vue';
+import router from './router';
+
+import Ionic from '@ionic/vue';
+import '@ionic/core/css/core.css';
+import '@ionic/core/css/ionic.bundle.css';
+
+Vue.use(Ionic);
 
 Vue.config.productionTip = false
 
