@@ -30,13 +30,13 @@
         </div>
 
 <!--  -->
-        <ion-fab vertical="bottom" horizontal="start" slot="fixed">
+        <ion-fab vertical="top" horizontal="start">
           
           <ion-fab-button>
             <i class="fa fa-plus"></i>            
           </ion-fab-button>
 
-          <ion-fab-list side="top">
+          <ion-fab-list side="bottom">
 
             <ion-fab-button>
               <i class="fa fa-bell"></i>            
