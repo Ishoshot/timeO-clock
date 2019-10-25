@@ -32,7 +32,6 @@
 
 html {
   transition: all 0.5s ease-in;
-  /*overflow-y: hidden !important;*/
 }
 
 body {
@@ -61,8 +60,6 @@ html.dark {
   color: var(--secondary-color);
   font-family: 20px;
   padding: 8px 12px;
-  /*position: absolute;*/
-  /*top: 100px;*/
 }
 
 .toggle:focus {
