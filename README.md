@@ -1,4 +1,7 @@
-# clock
+# Time O'clock
+
+There is nothing than having a superb time, with 2 modes (Digital and Analogue) also having Dark mode..
+
 
 ## Project setup
 ```
